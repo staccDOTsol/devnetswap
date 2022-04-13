@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { VStack, Center, HStack, Text, Box } from "@chakra-ui/react";
 import React, { Children } from "react";
 import ReactCountdown from "react-countdown";

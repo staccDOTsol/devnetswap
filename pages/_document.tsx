@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { ColorModeScript } from "@chakra-ui/react";
 import Document, { Html, Head, Main, NextScript } from "next/document";
 import { GA_TRACKING_ID, IS_PRODUCTION } from "../src/constants";

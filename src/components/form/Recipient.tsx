@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { Link, usePrevious } from "@chakra-ui/react";
 import { FormControl, FormLabel, HStack, Center, Avatar, Circle, VStack, Text, Icon } from "@chakra-ui/react";
 import { PublicKey } from "@solana/web3.js";
